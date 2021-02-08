@@ -30,4 +30,7 @@
     <string name="suggestion_pref_screen_title">Предложения</string>
     <string name="suggestion_pref_screen_desc">Для предложений всех приложений &amp; главного экрана</string>
 
+    <!-- Recents screen, close app -->
+    <string name="recents_close_app">Close app</string>
+
 </resources>
